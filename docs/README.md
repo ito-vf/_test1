@@ -1,5 +1,7 @@
 # Docs test
 
+{% include list.liquid all=true %}
+
 ----
 
 {% include 1.ss1 %}  
