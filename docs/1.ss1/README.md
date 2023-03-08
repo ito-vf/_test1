@@ -1,4 +1,7 @@
 # 1.ss1 includes:
 
-{% include list.liquid all=true %}
+
+table|comm
+-|-
+1|1.ss1
 

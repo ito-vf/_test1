@@ -1,4 +1,4 @@
 # 2.ss1 includes:
 
-{% include list.liquid all=true %}
+## 2.ss1
 

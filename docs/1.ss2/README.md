@@ -1,4 +1,6 @@
 # 1.ss2 includes:
 
-{% include list.liquid all=true %}
+- ind1
+  - ind2(1)
+  - ind2(2)
 
